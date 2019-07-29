@@ -421,8 +421,8 @@ https://developer.paypal.com/docs/api/overview/#make-rest-api-calls
 
 ```
 
-curl https://api.stripe.com/v1/ 
-   -u token_here:
+curl https://api.stripe.com/v1/charges \
+  -u token_here:
 
    ```
 
